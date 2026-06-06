@@ -29,8 +29,9 @@ To run this game, you only need Python installed on your system. Tkinter is incl
   (Note: Depending on your system, you might need to use python3 main.py)
 
 **📂 Project Structure:**
-    main.py: Handles the frontend. It initializes the Tkinter window, binds keyboard events, maps colors, and updates the grid visuals.
-    game.py: Handles the backend. It contains the Game class, which manages the 4x4 2D list, calculates movements (Up, Down, Left, Right), and validates game states.
+
+**main.py:** Handles the frontend. It initializes the Tkinter window, binds keyboard events, maps colors, and updates the grid visuals.
+**game.py:** Handles the backend. It contains the Game class, which manages the 4x4 2D list, calculates movements (Up, Down, Left, Right), and validates game states.
 
 **⌨️ Controls:**
 
